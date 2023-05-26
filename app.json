@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "dd896e25-c2d7-479c-b5b2-2a3681ef88ff"
+      }
+    },
+    "owner": "afiffikri"
   }
 }
